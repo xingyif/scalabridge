@@ -22,6 +22,12 @@ For people who already know many other Scala developers, feel free to directly r
 For people who are relatively new to the community and who are new to organizing bridge events, here are [a list of mentors](#interested--mentors), who are interested in mentoring.
 
 ## How do you get more mentors to sign up?
+There are a few ways to promote your event:
+- Twitter
+- BridgeTroll
+- Local Meetup
+
+We will discuss promotion [here](#promote-workshop.md).
 
 
 

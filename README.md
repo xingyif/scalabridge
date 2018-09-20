@@ -17,9 +17,9 @@ One of the best ways to grow the community and to bring diversity into the commu
 It is not difficult at all to become a workshop organize. Simply follow the following steps:
 
 1. [ Find A Date for The Workshop ](#organize-a-workshop/find-date.md)
-2. [ Find Sponsorship (Food & Space) ](#sponsorship.md)
-3. [ Invite Mentors ](#invite-mentors.md)
-4. [ Promote The Event ](#promote)
+2. [ Find Sponsorship (Food & Space) ](#organize-a-workshop/sponsorship.md)
+3. [ Invite Mentors ](#organize-a-workshop/invite-mentors.md)
+4. [ Promote The Event ](#organize-a-workshop/promote-workshop.md)
 5. [ Event Reminders ](#students)
 6. [ Workshop Day ](#workshop-day.md)
 7. [ Post Workshop ](#postworkshop)
