@@ -17,17 +17,19 @@ One of the best ways to grow the community and to bring diversity into the commu
 It is not difficult at all to become a workshop organize. Simply follow the following steps:
 
 1. [ Find A Date for The Workshop ](/organize-a-workshop/find-date.md)
-2. [ Find Sponsorship (Food & Space) ](#organize-a-workshop/sponsorship.md)
-3. [ Invite Mentors ](#organize-a-workshop/invite-mentors.md)
-4. [ Promote The Event ](#organize-a-workshop/promote-workshop.md)
-5. [ Event Reminders ](#students)
-6. [ Workshop Day ](#workshop-day.md)
-7. [ Post Workshop ](#postworkshop)
+2. [ Invite Mentors ](/organize-a-workshop/invite-mentors.md)
+3. [ Find Sponsorship (Food & Space) ](/organize-a-workshop/sponsorship.md)
+4. [ Promote The Event ](/organize-a-workshop/promote-workshop.md)
+5. [ Event Reminders ](/organize-a-workshop/students)
+6. [ Workshop Day ](/organize-a-workshop/workshop-day.md)
+7. [ Post Workshop ](/organize-a-workshop/postworkshop.md)
 
 
 
 ScalaBridge can be organized with/ without a conference. The optimal & recommended time to start the above process for organizing the event is 3 months before the event date.
 
-## Other Bridge Events Resources:
+The above process is recommended, however, not required. You're welcome to follow your own steps if preferred.
+
+## Other Bridge Events Organizing Resources:
 http://www.scalabridge.org/
 http://www.railsbridge.org/help/host

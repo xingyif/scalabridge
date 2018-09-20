@@ -1,6 +1,6 @@
 # Find An Event Date for the Workshop
 
-The first step of organizing a ScalaBridge workshop is to find an optimal date for the workshop. If you are at this stage, then you're at the beginning of planning a workshop. It is recommended to find a date that is in 3 months, so that you have enough time to [find sponsorship](#sponsorship.md), [find mentors](#invite-mentors.md), and [promote the event](#promote.md).
+The first step of organizing a ScalaBridge workshop is to find an optimal date for the workshop. If you are at this stage, then you're at the beginning of planning a workshop. It is recommended to find a date that is in 3 months, so that you have enough time to [find sponsorship](/sponsorship.md), [find mentors](/invite-mentors.md), and [promote the event](/promote-workshop.md).
 
 <span style="color:blue">Recommendations from Experienced event/ conference organizers are welcome!</span>
 
@@ -20,6 +20,6 @@ If you're organizing a workshop with a **conference**, most of the workshops are
 
 
 ## Next Step:
-Click [here](#invite-mentors.md) to read more about how to find mentors for a ScalaBridge workshop.
+Click [here](/invite-mentors.md) to read more about how to find mentors for a ScalaBridge workshop.
 
 Go back to the [table of content](../README.md)
