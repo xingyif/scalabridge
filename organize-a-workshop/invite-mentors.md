@@ -40,7 +40,7 @@ Please put your name and contact info if you're interested in being a mentor for
 
 ### Boston
 | Name                      | Contact Info                      | Mentored in ScalaBridge Before? |
-| ------------              |:---------------------------------:| -------:|
+| ------------------------- |:---------------------------------:| -------------------------------:|
 | Yifan Xing                | xing.yif@husky.neu.edu            |   Yes   |
 | Christopher Davenport     | ChristopherDavenport@outlook.com  |   Yes   |
 | Ryan Plessner             | [@ryan_plessner](https://twitter.com/ryan_plessner)| Yes |
@@ -49,7 +49,7 @@ Please put your name and contact info if you're interested in being a mentor for
 
 ### London
 | Name                      | Contact Info                      | Mentored in ScalaBridge Before? |
-| ------------              |:---------------------------------:| -------:|
+| ------------------------- |:---------------------------------:| -------------------------------:|
 | Noel Welsh                | [@noelwelsh](https://twitter.com/noelwelsh) | Yes |
 
 
