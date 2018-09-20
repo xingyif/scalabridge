@@ -60,6 +60,12 @@ Please put your name and contact info if you're interested in being a mentor for
 | Noel Welsh                | [@noelwelsh](https://twitter.com/noelwelsh)       | Yes                             |
 
 
+### Munich
+| Name                      | Contact Info (Email or Twitter handle if DM open) | Mentored in ScalaBridge Before? |
+| ------------------------- |:-------------------------------------------------:| -------------------------------:|
+| Lars Hupel                | lars at typelevel dot org                         | No                              |
+
+
 ### NYC, New York
 | Name                      | Contact Info (Email or Twitter handle if DM open) | Mentored in ScalaBridge Before? |
 | ------------------------- |:-------------------------------------------------:| -------------------------------:|
@@ -72,7 +78,9 @@ Please put your name and contact info if you're interested in being a mentor for
 | Seth Tisue                | seth dot tisue at lightbend dot com               | Yes                             |
 
 
-### Munich
+### Seattle
 | Name                      | Contact Info (Email or Twitter handle if DM open) | Mentored in ScalaBridge Before? |
 | ------------------------- |:-------------------------------------------------:| -------------------------------:|
-| Lars Hupel                | lars at typelevel dot org                         | No                              |
+| Andy Scott                | [@andygscott](https://twitter.com/andygscott)     | Yes                             |
+
+
