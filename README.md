@@ -31,5 +31,5 @@ ScalaBridge can be organized with/ without a conference. The optimal & recommend
 The above process is recommended, however, not required. You're welcome to follow your own steps if preferred.
 
 ## Other Bridge Events Organizing Resources:
-http://www.scalabridge.org/
-http://www.railsbridge.org/help/host
+- http://www.scalabridge.org/
+- http://www.railsbridge.org/help/host
