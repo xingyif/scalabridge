@@ -35,26 +35,26 @@ There are a few ways to promote your event:
 
 
 ## Interested  Mentors
-Please put your name and contact info if you're interested in being a mentor for the future ScalaBridge events in your city. Note: You don't have to have mentorship experience to be a mentor.
+Please put your name and contact info if you're interested in being a mentor for the future ScalaBridge events in your city. **Note: You don't have to have mentorship experience to be a mentor.**
 
 
 ### Boston
-| Name                      | Contact Info                      | Mentored in ScalaBridge Before? |
-| ------------------------- |:---------------------------------:| -------------------------------:|
-| Yifan Xing                | xing.yif@husky.neu.edu            |   Yes   |
-| Christopher Davenport     | ChristopherDavenport@outlook.com  |   Yes   |
-| Ryan Plessner             | [@ryan_plessner](https://twitter.com/ryan_plessner)| Yes |
-| Justin du Coeur, AKA Mark Waks| [@jducoeur](https://twitter.com/jducoeur)| Yes |
-| ExampleName               | example@email.com                 |   No    |
+| Name                      | Contact Info (Email or Twitter handle if DM open) | Mentored in ScalaBridge Before? |
+| ------------------------- |:-------------------------------------------------:| -------------------------------:|
+| Yifan Xing                | xing.yif@husky.neu.edu                            |   Yes   |
+| Christopher Davenport     | ChristopherDavenport@outlook.com                  |   Yes   |
+| Ryan Plessner             | [@ryan_plessner](https://twitter.com/ryan_plessner)|  Yes   |
+| Justin du Coeur, AKA Mark Waks| [@jducoeur](https://twitter.com/jducoeur)     |   Yes   |
+| ExampleName               | example@email.com                                 |   No    |
 
 ### London
-| Name                      | Contact Info                      | Mentored in ScalaBridge Before? |
-| ------------------------- |:---------------------------------:| -------------------------------:|
-| Noel Welsh                | [@noelwelsh](https://twitter.com/noelwelsh) | Yes |
+| Name                      | Contact Info (Email or Twitter handle if DM open) | Mentored in ScalaBridge Before? |
+| ------------------------- |:-------------------------------------------------:| -------------------------------:|
+| Noel Welsh                | [@noelwelsh](https://twitter.com/noelwelsh)       | Yes                             |
 
 
 ### NYC, New York
-| Name                      | Contact Info                      | Mentored in ScalaBridge Before? |
-| ------------------------- |:---------------------------------:| -------------------------------:|
-| Stewart Stewart           | stewinsalot@gmail.com             | Yes                             |
+| Name                      | Contact Info (Email or Twitter handle if DM open) | Mentored in ScalaBridge Before? |
+| ------------------------- |:-------------------------------------------------:| -------------------------------:|
+| Stewart Stewart           | stewinsalot@gmail.com                             | Yes                             |
 
