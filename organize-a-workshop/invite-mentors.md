@@ -35,22 +35,24 @@ There are a few ways to promote your event:
 
 
 ## Interested  Mentors
-Please put your name and contact info if you're interested in being a mentor for the future ScalaBridge events in your city. **Note: You don't have to have mentorship experience to be a mentor.**
+Please put your name and contact info if you're interested in being a mentor for the future ScalaBridge events in your city. **Note: You do NOT have to have mentorship experience to be a mentor.**
 
 
 ### Boston
 | Name                      | Contact Info (Email or Twitter handle if DM open) | Mentored in ScalaBridge Before? |
 | ------------------------- |:-------------------------------------------------:| -------------------------------:|
-| Yifan Xing                | xing.yif@husky.neu.edu                            |   Yes   |
-| Christopher Davenport     | ChristopherDavenport@outlook.com                  |   Yes   |
-| Ryan Plessner             | [@ryan_plessner](https://twitter.com/ryan_plessner)|  Yes   |
-| Justin du Coeur, AKA Mark Waks| [@jducoeur](https://twitter.com/jducoeur)     |   Yes   |
-| ExampleName               | example@email.com                                 |   No    |
+| Yifan Xing                | xing.yif@husky.neu.edu                            |   Yes                           |
+| Christopher Davenport     | ChristopherDavenport at outlook dot com           |   Yes                           |
+| Ryan Plessner             | [@ryan_plessner](https://twitter.com/ryan_plessner)|  Yes                           |
+| Justin du Coeur, AKA Mark Waks| [@jducoeur](https://twitter.com/jducoeur)     |   Yes                           |
+| ExampleName               | example@email.com                                 |   No                            |
+
 
 ### Chicago
 | Name                      | Contact Info (Email or Twitter handle if DM open) | Mentored in ScalaBridge Before? |
 | ------------------------- |:-------------------------------------------------:| -------------------------------:|
 | Andy Hamilton             | andrew.hamil10@gmail.com                          | Yes                             |
+
 
 ### London
 | Name                      | Contact Info (Email or Twitter handle if DM open) | Mentored in ScalaBridge Before? |
@@ -63,7 +65,14 @@ Please put your name and contact info if you're interested in being a mentor for
 | ------------------------- |:-------------------------------------------------:| -------------------------------:|
 | Stewart Stewart           | stewinsalot@gmail.com                             | Yes                             |
 
+
 ### San Francisco
 | Name                      | Contact Info (Email or Twitter handle if DM open) | Mentored in ScalaBridge Before? |
 | ------------------------- |:-------------------------------------------------:| -------------------------------:|
 | Seth Tisue                | seth dot tisue at lightbend dot com               | Yes                             |
+
+
+### Munich
+| Name                      | Contact Info (Email or Twitter handle if DM open) | Mentored in ScalaBridge Before? |
+| ------------------------- |:-------------------------------------------------:| -------------------------------:|
+| Lars Hupel                | lars at typelevel dot org                         | No                              |
