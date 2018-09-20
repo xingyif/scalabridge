@@ -54,5 +54,7 @@ Please put your name and contact info if you're interested in being a mentor for
 
 
 ### NYC, New York
-
+| Name                      | Contact Info                      | Mentored in ScalaBridge Before? |
+| ------------------------- |:---------------------------------:| -------------------------------:|
+| Stewart Stewart           | stewinsalot@gmail.com             | Yes                             |
 
