@@ -47,6 +47,11 @@ Please put your name and contact info if you're interested in being a mentor for
 | Justin du Coeur, AKA Mark Waks| [@jducoeur](https://twitter.com/jducoeur)     |   Yes   |
 | ExampleName               | example@email.com                                 |   No    |
 
+### Chicago
+| Name                      | Contact Info (Email or Twitter handle if DM open) | Mentored in ScalaBridge Before? |
+| ------------------------- |:-------------------------------------------------:| -------------------------------:|
+| Andy Hamilton             | andrew.hamil10@gmail.com                          | Yes                             |
+
 ### London
 | Name                      | Contact Info (Email or Twitter handle if DM open) | Mentored in ScalaBridge Before? |
 | ------------------------- |:-------------------------------------------------:| -------------------------------:|
