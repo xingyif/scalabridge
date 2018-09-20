@@ -31,6 +31,7 @@ There are a few ways to promote your event:
 ## Next Step:
 We will discuss promotion [here](#promote-workshop.md).
 
+Go back to the [table of content](../README.md).
 
 
 ## Interested  Mentors
