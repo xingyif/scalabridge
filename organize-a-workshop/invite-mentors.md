@@ -27,6 +27,8 @@ There are a few ways to promote your event:
 - BridgeTroll
 - Local Meetup
 
+
+## Next Step:
 We will discuss promotion [here](#promote-workshop.md).
 
 
