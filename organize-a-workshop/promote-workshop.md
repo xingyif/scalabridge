@@ -6,6 +6,7 @@ The goal of promoting the workshop is to:
 
 
 ## Create Event
+It is recommended that you choose one of the following platforms. You CAN create the event on multiple platforms, however, it will be difficult to have an accurate headcount because you might have duplicated sign-ups from the same student.
 
 1. Meetup
 
@@ -33,7 +34,6 @@ ScalaBridge workshop's audiences are:
 
 
 ## How to promote to students?
-It is recommended that you choose one of the following platforms. You CAN create the event on multiple platforms, however, it will be difficult to have an accurate headcount because you might have duplicated sign-ups from the same student.
 
 1. Meetup groups
 
