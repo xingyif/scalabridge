@@ -1,5 +1,8 @@
 # Promote Workshop
 
+**Optimal start time of this step: 2 or 3 months before the workshop. This step is continuous.**
+
+
 The goal of promoting the workshop is to:
 1. Invite students who are underrepresented in tech
 2. Invite more mentors

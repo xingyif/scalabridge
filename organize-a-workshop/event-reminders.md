@@ -1,3 +1,8 @@
+# Event Reminders
+
+**Optimal start time of this step: 1 month before the workshop**
+
+
 link to sample emails
 
 

@@ -1,3 +1,6 @@
+# Find Sponsorship
+
+**Optimal start time of this step: 3 months before the workshop**
 
 find companies, 
 local meetups

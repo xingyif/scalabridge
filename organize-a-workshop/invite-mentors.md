@@ -1,4 +1,8 @@
 # Invite Mentors for the Workshop
+
+**Optimal start time of this step: 3 months before the workshop**
+
+
 Mentors are the most important part of the workshop. It can be a little challenging if you're relatively new to the community and new to organizing ScalaBridge events. But don't worry. This page will make it easier for you, hopefully! :)
 
 
