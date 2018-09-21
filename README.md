@@ -16,13 +16,13 @@ One of the best ways to grow the community and to bring diversity into the commu
 ## How to organize a ScalaBridge workshop?
 It is not difficult at all to become a workshop organize. Simply follow the following steps:
 
-1. [ Find A Date for The Workshop ](/organize-a-workshop/find-date.md)
-2. [ Invite Mentors ](/organize-a-workshop/invite-mentors.md)
-3. [ Find Sponsorship (Food & Space) ](/organize-a-workshop/sponsorship.md)
-4. [ Promote The Event ](/organize-a-workshop/promote-workshop.md)
-5. [ Event Reminders ](/organize-a-workshop/students)
+1. [ Find A Date for The Workshop (3 months before the workshop date) ](/organize-a-workshop/find-date.md)
+2. [ Invite Mentors (3 months before) ](/organize-a-workshop/invite-mentors.md)
+3. [ Find Sponsorship: Food & Space (3 month before) ](/organize-a-workshop/sponsorship.md)
+4. [ Promote The Event (2/ 3 months before) ](/organize-a-workshop/promote-workshop.md)
+5. [ Event Reminders (1 month before) ](/organize-a-workshop/event-reminders.md)
 6. [ Workshop Day ](/organize-a-workshop/workshop-day.md)
-7. [ Post Workshop ](/organize-a-workshop/postworkshop.md)
+7. [ Post Workshop (1 day after) ](/organize-a-workshop/post-workshop.md)
 
 
 
