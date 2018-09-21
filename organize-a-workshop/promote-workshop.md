@@ -33,6 +33,8 @@ ScalaBridge workshop's audiences are:
 
 
 ## How to promote to students?
+It is recommended that you choose one of the following platforms. You CAN create the event on multiple platforms, however, it will be difficult to have an accurate headcount because you might have duplicated sign-ups from the same student.
+
 1. Meetup groups
 
    Local meetup groups are great platforms for spreading the words. You can post the event registration link to the meetup group discussion. It is even better if you can send a notification email to everyone on the email list.
