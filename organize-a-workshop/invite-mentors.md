@@ -3,11 +3,12 @@ Mentors are the most important part of the workshop. It can be a little challeng
 
 
 ## General Process
-There are two parts of inviting mentors.
+There are **two** parts of inviting mentors.
 The first round is that before you pick a date for the event, you should personally reach out to a few people who are interested in helping out with the event by being a mentor.
 
 The second round is after you've picked an event date. You can promote the event while inviting/ attracting more mentors.
 
+**The optimal ratio between mentor:student is 1:5.**
 
 ## Who should you invite?
 - People who knows how to code in Scala.
