@@ -30,7 +30,7 @@ There are a few ways to promote your event:
 
 
 ## Next Step:
-- We will discuss how to promote the workshop [here](./promote-workshop.md).
+- We will discuss how to find sponsorship [here](./sponsorship.md).
 
 - Go back to the [table of content](../README.md).
 
