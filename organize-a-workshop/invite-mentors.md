@@ -94,6 +94,7 @@ Please put your name and contact info if you're interested in being a mentor for
 | Name                      | Contact Info (Email or Twitter handle if DM open) | Mentored in ScalaBridge Before? |
 | ------------------------- |:-------------------------------------------------:| -------------------------------:|
 | Seth Tisue                | seth dot tisue at lightbend dot com               | Yes                             |
+| Cody Allen                | ceedubs at gmail dot com                          | Yes                             |
 
 
 ### Seattle
