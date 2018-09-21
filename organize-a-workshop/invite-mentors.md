@@ -19,7 +19,7 @@ The second round is after you've picked an event date. You can promote the event
 ## How do you personally reach out to mentors?
 For people who already know many other Scala developers, feel free to directly reach out to them.
 
-For people who are relatively new to the community and who are new to organizing bridge events, here are [a list of mentors](#interested--mentors), who are interested in mentoring.
+For people who are relatively new to the community and who are new to organizing bridge events, here are [a list of mentors](#interested--mentors), who are interested in mentoring. Feel free to invite them as mentors for your workshop.
 
 ## How do you get more mentors to sign up?
 There are a few ways to promote your event:
@@ -45,7 +45,6 @@ Please put your name and contact info if you're interested in being a mentor for
 | Christopher Davenport     | ChristopherDavenport at outlook dot com           |   Yes                           |
 | Ryan Plessner             | [@ryan_plessner](https://twitter.com/ryan_plessner)|  Yes                           |
 | Justin du Coeur, AKA Mark Waks| [@jducoeur](https://twitter.com/jducoeur)     |   Yes                           |
-| ExampleName               | example@email.com                                 |   No                            |
 
 
 ### Chicago
