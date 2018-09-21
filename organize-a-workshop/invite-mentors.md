@@ -35,8 +35,16 @@ There are a few ways to promote your event:
 - Go back to the [table of content](../README.md).
 
 
+*********************************************************************************************
 ## Interested  Mentors
 Please put your name and contact info if you're interested in being a mentor for the future ScalaBridge events in your city. **Note: You do NOT have to have mentorship experience to be a mentor.**
+
+
+### Happy to help in any city
+| Name                      | Contact Info (Email or Twitter handle if DM open) | Mentored in ScalaBridge Before? |
+| ------------------------- |:-------------------------------------------------:| -------------------------------:|
+| Yifan Xing                | xing.yif@husky.neu.edu                            |   Yes                            |
+| Sven Ludwig               | sven dot ludwig at recogizer dot com              | No (open for travel to cities)  |
 
 
 ### Boston

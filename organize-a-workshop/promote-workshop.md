@@ -35,10 +35,21 @@ ScalaBridge workshop's audiences are:
 ## How to promote to students?
 1. Meetup groups
 
-I found local meetup groups are great platforms for spreading the words. You can post the event registration link to the meetup group discussion. It is even better if you can send a notification email to everyone on the email list.
+Local meetup groups are great platforms for spreading the words. You can post the event registration link to the meetup group discussion. It is even better if you can send a notification email to everyone on the email list.
 
-2. Email list of different groups
+2. Email lists of different groups
+This is a very effective way of direct promotion of the event.
 
-Send emails to email lists 
-find target audiences
-meetups
+3. Social Media
+Including but not limited to: Facebook, Instagram, Twitter, etc.
+
+
+## How to promote to mentors?
+
+1. Twitter
+Scala community is very active on Twitter. You can twitter about the event to encourage people to sign up. Feel free to ping me [@yifan_xing_e](https://twitter.com/yifan_xing_e), I and many others will be happy to retweet the event.
+
+2. BridgeTroll
+Mentor on BridgeTroll will get a notification when there is a bridge event.
+
+3. Go to our [list of interested AMAZING mentors](./invite-mentors.md#interested--mentors), and feel free to ping them for help or promoting the event!
