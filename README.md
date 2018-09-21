@@ -10,7 +10,7 @@ ScalaBridge workshops are usually one-day long events, which will take students 
 
 
 ## Why should you organize a ScalaBridge workshop?
-One of the best ways to grow the community and to bring diversity into the community is to organize ScalaBridge workshops. 
+One of the best ways to grow the community and to bring diversity into the community is to organize ScalaBridge workshops. To learn more about why diversity is important, please go [here](./why-diversity.md).
 
 
 ## How to organize a ScalaBridge workshop?
