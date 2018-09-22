@@ -53,10 +53,10 @@ Please put company name and contact info if interested in being a sponsor for th
 
 
 #### Boston
-| Name                      | Contact Person (Email or Twitter handle if DM open) | Sponsored Before? | Notes |
-| ------------------------- |:-------------------------------------------------:| -------------------------------:|
-| Teikametrics              | Gavin Bisesi <daenyth@gmail.com> |   No                            | |
-| Hopper                    | Shannon Lane <slane@hopper.com> |   Yes                            | |
-| Datto                     | Charlene Bunting <cbunting@datto.com> |   Yes                            | |
-| Threat Stack              | Ryan Plessner <ryan.plessner@threatstack.com> |   Yes                            | |
+| Name                      | Contact Person (Email or Twitter handle if DM open) | Sponsored Before? | Notes  |
+| ------------------------- |:----------------------------------------------:| --------:| --------------------:|
+| Teikametrics              | Gavin Bisesi <daenyth@gmail.com>               |   No     |                      |
+| Hopper                    | Shannon Lane <slane@hopper.com>                |   Yes    |                      |
+| Datto                     | Charlene Bunting <cbunting@datto.com>          |   Yes    |                      |
+| Threat Stack              | Ryan Plessner <ryan.plessner@threatstack.com>  |   Yes    |                      |
 
