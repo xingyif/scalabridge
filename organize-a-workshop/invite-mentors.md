@@ -47,7 +47,7 @@ Please put your name and contact info if you're interested in being a mentor for
 ### Happy to help in any city
 | Name                      | Contact Info (Email or Twitter handle if DM open) | Mentored in ScalaBridge Before? |
 | ------------------------- |:-------------------------------------------------:| -------------------------------:|
-| Yifan Xing                | xing.yif@husky.neu.edu                            |   Yes                            |
+| Yifan Xing                | [@yifan_xing_e](https://twitter.com/yifan_xing_e) |   Yes                            |
 | Sven Ludwig               | sven dot ludwig at recogizer dot com              | No (open for travel to cities)  |
 
 
