@@ -21,7 +21,12 @@ Many companies are very willing to help out with such an event. Please do not he
 3. Twitter
    
    Post that you're looking for sponsorships on Twitter, ping me ([@yifan_xing_e](https://twitter.com/yifan_xing_e)). I and many others will be happy to retweet.
-   
+
+
+
+For people who are relatively new to the community and who are new to organizing bridge events, here are [a list of sponsors](#interested--sponsors), who are interested in sponsoring. Feel free to reach out to them for the workshop.
+
+
 
 ## What to do when you find a sponsor?
 
@@ -52,7 +57,7 @@ Many companies are very willing to help out with such an event. Please do not he
 Please put company name and contact info if interested in being a sponsor for the future ScalaBridge events in your city.
 
 
-#### Boston
+### Boston
 | Name                      | Contact Person (Email or Twitter handle if DM open) | Sponsored Before? | Notes  |
 | ------------------------- |:----------------------------------------------:| --------:| --------------------:|
 | Teikametrics              | Gavin Bisesi <daenyth@gmail.com>               |   No     |                      |
