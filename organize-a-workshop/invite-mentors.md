@@ -59,6 +59,11 @@ Please put your name and contact info if you're interested in being a mentor for
 | Ryan Plessner             | [@ryan_plessner](https://twitter.com/ryan_plessner)|  Yes                           |
 | Justin du Coeur, AKA Mark Waks| [@jducoeur](https://twitter.com/jducoeur)     |   Yes                           |
 
+### Bucharest
+| Name                      | Contact Info (Email or Twitter handle if DM open) | Mentored in ScalaBridge Before? |
+| ------------------------- |:-------------------------------------------------:| -------------------------------:|
+| Alexandru Nedelcu         | [@alexelcu](https://twitter.com/alexelcu)         |   No                            |
+
 
 ### Chicago
 | Name                      | Contact Info (Email or Twitter handle if DM open) | Mentored in ScalaBridge Before? |
