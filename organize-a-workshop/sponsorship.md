@@ -40,18 +40,23 @@ Many companies are very willing to help out with such an event. Please do not he
 
 
 
-
-
-# Have a list of sponsor companies in different cities
-
-location
-name, contact person, email, sponsored before, can sponsor food, notes
-
-
-
-
-
 ## Next Step:
+
 - We will discuss how to promote the workshop [here](./promote-workshop.md).
 
 - Go back to the [table of content](../README.md).
+
+
+*********************************************************************************************
+## Interested  Sponsors
+Please put company name and contact info if interested in being a sponsor for the future ScalaBridge events in your city.
+
+
+#### Boston
+| Name                      | Contact Person (Email or Twitter handle if DM open) | Sponsored Before? | Notes |
+| ------------------------- |:-------------------------------------------------:| -------------------------------:|
+| Teikametrics              | Gavin Bisesi <daenyth@gmail.com> |   No                            | |
+| Hopper                    | Shannon Lane <slane@hopper.com> |   Yes                            | |
+| Datto                     | Charlene Bunting <cbunting@datto.com> |   Yes                            | |
+| Threat Stack              | Ryan Plessner <ryan.plessner@threatstack.com> |   Yes                            | |
+
