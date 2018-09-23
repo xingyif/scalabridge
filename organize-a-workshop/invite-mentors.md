@@ -80,7 +80,15 @@ Please put your name and contact info if you're interested in being a mentor for
 ### Cologne
 | Name                      | Contact Info (Email or Twitter handle if DM open) | Mentored in ScalaBridge Before? |
 | ------------------------- |:-------------------------------------------------:| -------------------------------:|
-| Sven Ludwig               | sven dot ludwig at recogizer dot com              | No (open for travel to cities)  |
+| Sven Ludwig               | sven dot ludwig at recogizer dot com              | No (open for travel to cities)|
+
+
+
+### Düsseldorf
+| Name                      | Contact Info (Email or Twitter handle if DM open) | Mentored in ScalaBridge Before? |
+| ------------------------- |:-------------------------------------------------:| -------------------------------:|
+| Luka Jacobowitz           | luka dot jacobowitz at gmail dot com              | No                              |
+
 
 
 ### Munich
