@@ -70,6 +70,10 @@ Please put your name and contact info if you're interested in being a mentor for
 | ------------------------- |:-------------------------------------------------:| -------------------------------:|
 | Andy Hamilton             | andrew.hamil10@gmail.com                          | Yes                             |
 
+### Cracow
+| Name                      | Contact Info (Email or Twitter handle if DM open) | Mentored in ScalaBridge Before? |
+| ------------------------- |:-------------------------------------------------:| -------------------------------:|
+| Piotr Gawryś              | [@p_gawrys](https://twitter.com/p_gawrys)         | No                              |
 
 ### London
 | Name                      | Contact Info (Email or Twitter handle if DM open) | Mentored in ScalaBridge Before? |
