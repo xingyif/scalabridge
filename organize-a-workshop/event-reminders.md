@@ -13,7 +13,7 @@ One of the best ways to ensure that you have a reasonable turn out for the works
 Reminder emails should be sent out separately for the two different groups.
 
 
-## One Month Before the event:
+## :clock2: One Month Before the event:
 You would want to remind people of the workshop to ensure that they can still attend. Or to remind them to update their RSVP if they can no longer attend.
 
 ### What should be included in your reminder email?
@@ -41,16 +41,55 @@ You would want to remind people of the workshop to ensure that they can still at
    - Your contact info for questions 
 
 
-   **To see a sample student reminder email. Please see [here](../sample-emails/reminder-mentors-one-month.md).**
+   **To see a sample mentor reminder email. Please see [here](../sample-emails/reminder-mentors-one-month.md).**
+
+
+## :clock230: Two weeks before the event:
+In addition to reminding people of the event, you should finalize the number of people who signed up for the event. :bangbang: Give the final head count to the sponsor to prepare for food and space.
+You will also want to give a heads up to your mentors about what to expect on the workshop day.
+
+
+1. Students:
+   - Link to event page (schedule, time, location, etc.)
+   - Goal of the workshop
+   - Update RSVP is no longer can attend
+   - (Optional) Mention/ thank sponsor
+   - Your contact info for questions
+   
+   **To see a sample student reminder email. Please see [here](../sample-emails/reminder-students-one-month.md).**
+
+2. Mentors:
+   - Link to event page (schedule, time, location, etc.)
+   - Updates
+   - Groups to join (e.g.: mentor gitter channel)
+   - How many students to expect
+   - Technical background of students
+   
+   **To see a sample mentor reminder email. Please see [here](../sample-emails/reminder-mentors-two-weeks.md).**
 
 
 
-## Two weeks before the event:
-In addition to reminding people of the event, you should finalize the number of people who signed up for the event. :heavy_exclamation_mark: Give the final head count to the sponsor to prepare for  food and space.
+## :clock3:  One day before the event:
+The goal of this reminder to **get people excited and prepared** for tomorrow's workshop! :raised_hands:
 
-2 weeks
+1. Students:
+   - Update RSVP is no longer can attend
+   - Registration Time (Be prepared that people will show up late)
+   - Location and transportation details (Public transit or parking details)
+   - Food
+   - Download/ Install materials
+   - Update schedule
 
-day before
+      **To see a sample student reminder email. Please see [here](../sample-emails/reminder-students-day-before.md).**
+
+
+2. Mentors:
+   - Arrival Time
+   - Installation
+   - Tutorial link
+   
+      **To see a sample mentor reminder email. Please see [here](../sample-emails/reminder-mentors-day-before.md).**
+
 
 ## Next Step:
 - Click [here](./workshop-day.md) to read more about what should happen on the ScalaBridge workshop day.

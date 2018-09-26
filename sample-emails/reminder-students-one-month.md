@@ -1,6 +1,12 @@
-Reminder for Intro to Programming with Scala - ScalaBridge Boston
+## Reminder Email for Students - Two Weeks Before
 
-Thanks for signing up for Intro to Programming with Scala - ScalaBridge Boston! The workshop is on August 5th, 2018. A big thank you to our sponsor - Hopper!
+
+#### From: Yifan Xing
+
+#### Subject: August 5th: Intro to Programming with Scala Workshop - ScalaBridge Boston!
+
+
+Thanks for signing up for Intro to Programming with Scala - ScalaBridge Boston! The workshop is on **August 5th, 2018**. A big thank you to our sponsor - Hopper!
 
 This workshop is intended to reach out to anyone who is underrepresented in tech and interested in learning Scala.
 
@@ -12,6 +18,7 @@ Please join our gitter channel to communicate/ ask questions!
 
 Here is a brief schedule of the workshop day: Sun 8/5/2018
 
+```text
 10:00 am EST - Registration
 10:30 am EST - Opening Remark
 11:00 am EST - Learning Scala
@@ -19,8 +26,11 @@ Here is a brief schedule of the workshop day: Sun 8/5/2018
 1:00 pm EST - Keep Learning
 3:00 pm EST - Drinks provided by Hopper
 5:00 pm EST - End time
+```
 
-Feel free to reach out to me @yifan_xing_e with any questions or concerns. I am so excited to meet you all!!!
+
+Feel free to reach out to me [@yifan_xing_e](https://twitter.com/yifan_xing_e) with any questions or concerns. I am so excited to meet you all!!!
+
 
 Best,
 
