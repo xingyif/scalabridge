@@ -75,17 +75,18 @@ Please put your name and contact info if you're interested in being a mentor for
 | ------------------------- |:-------------------------------------------------:| -------------------------------:|
 | Piotr Gawryś              | [@p_gawrys](https://twitter.com/p_gawrys)         | No                              |
 
-### London
-| Name                      | Contact Info (Email or Twitter handle if DM open) | Mentored in ScalaBridge Before? |
-| ------------------------- |:-------------------------------------------------:| -------------------------------:|
-| Noel Welsh                | [@noelwelsh](https://twitter.com/noelwelsh)       | Yes                             |
-
 
 ### Cologne
 | Name                      | Contact Info (Email or Twitter handle if DM open) | Mentored in ScalaBridge Before? |
 | ------------------------- |:-------------------------------------------------:| -------------------------------:|
 | Sven Ludwig               | sven dot ludwig at recogizer dot com              | No (open for travel to cities)|
 
+
+
+### London
+| Name                      | Contact Info (Email or Twitter handle if DM open) | Mentored in ScalaBridge Before? |
+| ------------------------- |:-------------------------------------------------:| -------------------------------:|
+| Noel Welsh                | [@noelwelsh](https://twitter.com/noelwelsh)       | Yes                             |
 
 
 ### Düsseldorf
