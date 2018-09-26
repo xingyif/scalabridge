@@ -40,9 +40,11 @@ Here is a brief schedule of the workshop day: **Sun 8/5/2018**
 2:00 pm ET - Justin du Coeur/ Mark Waks: Resources for Scala beginners
 3:00 pm ET - Keep Learning and Drinks provided by Hopper :)
 5:00 pm ET - End time
-Feel free to reach out to me by DM me on Twitter @yifan_xing_e with any questions or concerns. I am so excited to meet you all!!! See you on Sunday.
 ```
+
+Feel free to reach out to me by DM me on Twitter [@yifan_xing_e](https://twitter.com/yifan_xing_e) with any questions or concerns. I am so excited to meet you all!!! See you on Sunday.
 
 
 Best,
+
 Yifan Xing
