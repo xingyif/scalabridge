@@ -6,6 +6,8 @@
 #### Subject: Intro to Programming with Scala Workshop - ScalaBridge Boston!
 
 
+
+
 Hi All,
 
 I am organizing a ScalaBridge workshop in Boston on August 5th. ScalaBridge is an inclusive community that introduces fundamentals of Scala to the minorities in the form of workshops. There are currently more than 130 people registered to attend. I would love to have more mentors for the workshop. 
