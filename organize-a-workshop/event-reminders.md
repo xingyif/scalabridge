@@ -1,4 +1,4 @@
-# Event Reminders
+# :alarm_clock: Event Reminders
 
 **Optimal start time of this step: 1 month before the workshop**
 
@@ -8,8 +8,9 @@ One of the best ways to ensure that you have a reasonable turn out for the works
 
 
 ## Who to remind?
-1. Students
-2. Mentors
+1. :school_satchel: Students
+2. :school: Mentors
+
 Reminder emails should be sent out separately for the two different groups.
 
 
