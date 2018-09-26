@@ -46,7 +46,7 @@ You would want to remind people of the workshop to ensure that they can still at
 
 
 ## Two weeks before the event:
-In addition to reminding people of the event, you should finalize the number of people who signed up for the event. <span style="color:red">Give the final head count to the sponsor to prepare for  food and space</span>.
+In addition to reminding people of the event, you should finalize the number of people who signed up for the event. :heavy_exclamation_mark: Give the final head count to the sponsor to prepare for  food and space.
 
 2 weeks
 
