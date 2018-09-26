@@ -1,9 +1,9 @@
 ## Reminder Email for Students - Two Weeks Before
 
 
-### From: Yifan Xing
+#### From: Yifan Xing
 
-### Subject: August 5th: Intro to Programming with Scala Workshop - ScalaBridge Boston!
+#### Subject: August 5th: Intro to Programming with Scala Workshop - ScalaBridge Boston!
 
 <br>
 <br>

@@ -1,9 +1,9 @@
 ## Call for Mentors - Three/ Two Month Before
 
 
-### From: Yifan Xing
+#### From: Yifan Xing
 
-### Subject: Intro to Programming with Scala Workshop - ScalaBridge Boston!
+#### Subject: Intro to Programming with Scala Workshop - ScalaBridge Boston!
 
 
 
