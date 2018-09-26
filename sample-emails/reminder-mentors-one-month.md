@@ -5,6 +5,9 @@
 
 #### Subject: Intro to Programming with Scala Workshop - ScalaBridge Boston!
 
+<br>
+<br>
+<br>
 
 Hi ScalaBridge mentors,
 

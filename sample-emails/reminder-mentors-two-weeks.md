@@ -6,6 +6,9 @@
 #### Subject: Reminder for Intro to Programming with Scala - ScalaBridge Boston
 
 
+<br>
+<br>
+<br>
 
 Hi All,
 

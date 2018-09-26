@@ -5,6 +5,9 @@
 
 #### Subject: Tomorrow - ScalaBridge Boston: Intro to Programming with Scala Workshop!
 
+<br>
+<br>
+<br>
 
 Body:
 Thanks for signing up for Intro to Programming with Scala - ScalaBridge Boston! The workshop is on this upcoming Sunday, August 5th, 2018. A big thank you to our sponsor - Hopper (275 Third Street · Cambridge, ma)!
