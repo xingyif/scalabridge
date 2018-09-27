@@ -1,17 +1,17 @@
 ## :sparkles: Workshop Day
 
-### Organizer and Mentors:
+### :star: Organizer and Mentors:
 As an organizer, you are expected to arrive earlier than the registration time to setup for the event.
 
 Please also remember to remind your mentors to arrive at least half an hour before registration for discussing logistics (e.g. installation).
 
-#### What you need to do before the event starts?
+#### :sunny: What you need to do before the event starts?
 1. Make sure order food in place.
 2. Make sure you have enough tables and chairs for student groups.
 3. Make sure your presentation is ready.
 
 
-### Who can attend?
+### :dog: Who can attend?
 To read about the target audiences, please visit [here](../who-can-attend.md)
 
 
@@ -36,6 +36,8 @@ Depending on what day or the week is your workshop (usually on the weekends). Th
 
 :name_badge: Remember to have name tags for attendees. It is a good way for them to get to know each other.
 
+<br>
+
 ### :bulb: Opening Remarks
 An introduction that starts the event. Shoudl include:
 - Workshop Goal
@@ -51,30 +53,30 @@ An introduction that starts the event. Shoudl include:
 To see an example presentation on opening remarks, please go [here](../workshop-resources/ScalaBridge%20-%20NYC%202018.pdf)
 
 
-### Grouping Students
+### :couple: :two_women_holding_hands: :two_men_holding_hands: Grouping Students
 There are two recommended ways to separate students into groups.
 1. Based on student's technical background/ level
 2. Based on student's goal and learning style (self-learning vs. pair-programming).
 
 
-### Installation
+### :hammer: Installation
 There are several choices for installation. To read more about the choices, plese visit [here](../workshop-resources/installation.md)
 
 
-### Workshop Materials
+### :bookmark_tabs: Workshop Materials
 ScalaBridge Workshop uses [Creative Scala Tutorial](http://creativescala.org/creative-scala.html)
 
 The scala template used in this tutorial is [here](https://github.com/underscoreio/creative-scala-template)
 
 
-### :school_satchel: What should mentors do?
+### :school: What should mentors do?
 Rather than lecture-lab, this is a hands-on workshop designed for self-paced learning. Mentors will be floating around, engaging and facilitating students in their learning. It is helpful if mentors could engage with students rather than always waiting for students to ask questions.
 
 ### :school_satchel: What should students do?
 Students will work individually or in groups, depending on personal preferences, using the Creative Scala tutorial. They will ask questions and get helps from the mentors.
 
 
-### At the end of the workshop:
+### :two_hearts: At the end of the workshop:
 Give a short closing presentation:
 - Thank all the mentors and the sponsor
 - Thank everyone who came
@@ -82,7 +84,7 @@ Give a short closing presentation:
 - Provide info about Scala meetups and encourage students to join the community
 
 
-### What else?
+### :sparkles: What else?
 
 :ghost: **Be Creative!**
 
