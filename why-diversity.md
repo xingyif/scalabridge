@@ -4,13 +4,14 @@
 
 > We want a balance of gender, age, ethnicity, and other qualities to make sure the teams are approaching problems holistically and creating solutions that are going to meet the needs of all kinds of people. 
 
-
+<br>
 
 ## :cat: :dog: What is a diverse community?
 A diverse community can be formed by people with different gender, religious, race, age, disability, linguistic differences, social-economic status and cultural backgrounds.
 
  :rabbit: :frog: :tiger: :koala: :bear: :pig: :cow: :boar: :monkey_face: :monkey: :horse: :racehorse: :camel: :sheep: :elephant: :panda_face: :snake: :bird: :hatched_chick: :penguin: :turtle: :bug: :honeybee: :ant: :whale: :fish: :octopus:
 
+<br>
 
 ## :warning: What happens if we have a community that has no diversity?
 > There are real-world cautionary tales of what happens when you don’t have gender diversity on your engineering teams.
