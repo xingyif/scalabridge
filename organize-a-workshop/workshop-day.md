@@ -5,7 +5,7 @@ As an organizer, you are expected to arrive about 1 hour earlier than the regist
 
 Please also remember to remind your mentors to arrive at least half an hour before registration for discussing logistics (e.g. installation).
 
-#### :star: What you need to do before the event starts?
+#### :art: What you need to do before the event starts?
 1. Make sure order food in place.
 2. Make sure you have enough tables and chairs for student groups.
 3. Make sure your presentation is ready.
@@ -39,7 +39,7 @@ Depending on what day or the week is your workshop (usually on the weekends). Th
 :name_badge: Remember to have name tags for attendees. It is a good way for them to get to know each other.
 
 
-### :bulb: Opening Remarks
+### :microphone: Opening Remarks
 An introduction that starts the event. Shoudl include:
 - Workshop Goal
 - Sponsor (give sponsor a few minutes to introduce themselves)
