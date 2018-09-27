@@ -28,5 +28,9 @@ Congratulations for finishing organizing a ScalaBridge workshop! Thank you for y
    - Scala Buddies: pair people, who are interested in learning Scala, up
    
 
+<br>
+
+**Thank YOU for your hard work! And for contributing to our community!**
+
 ![Thank You](../images/IMG_4774.JPG)
 
