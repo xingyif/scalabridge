@@ -1,4 +1,4 @@
-# Who Can Attend ScalaBridge workshops?
+# :raised_hands: Who Can Attend ScalaBridge workshops?
 
 
 ScalaBridge reaches out to people who are **underrepresented** in tech. A person **does not** have to be a woman to be underrepresented. Diversity comes in many forms: race, gender, age, religion, culture, sexual orientation, socioeconomic background, etc.  
