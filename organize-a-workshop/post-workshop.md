@@ -6,7 +6,7 @@ Congratulations for finishing organizing a ScalaBridge workshop! Thank you for y
 ## :ferris_wheel: What to do next?
 1. Send out a Thank You email to who attended. Here is an [example email](../sample-emails/post-workshop-thank-you.md).
 
-   Email should include:
+   :envelope: Email should include:
     - Thanks the mentors and students
     - [Resources](https://scalabridge.gitbooks.io/curriculum/content/resources.html) to learn more about Scala
     - (Optional) Post workshop survey (to learn about how to improve).
@@ -27,6 +27,11 @@ Congratulations for finishing organizing a ScalaBridge workshop! Thank you for y
    - Scala Mentors/ Mentees Program
    - Scala Buddies: pair people, who are interested in learning Scala, up
    
+## :arrow_right: Visit Frequently Asked Questions:
+- See [frequently asked questions](./faq.md) about ScalaBridge workshops.
+
+- Go back to the [table of content](../README.md)
+
 
 <br>
 
