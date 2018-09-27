@@ -18,7 +18,7 @@ Reminder emails should be sent out separately for the two different groups.
 You would want to remind people of the workshop to ensure that they can still attend. Or to remind them to update their RSVP if they can no longer attend.
 
 ### What should be included in your reminder email?
-1. Students
+1. :school_satchel: Students
    
    Remind registered students of: 
    - Event date, time
@@ -30,7 +30,7 @@ You would want to remind people of the workshop to ensure that they can still at
    
    **To see a sample student reminder email. Please see [here](../sample-emails/reminder-students-one-month.md).**
 
-2. Mentors:
+2. :school: Mentors:
 
    Remind registered mentors of:
    - Registration
@@ -50,7 +50,7 @@ In addition to reminding people of the event, you should finalize the number of 
 You will also want to give a heads up to your mentors about what to expect on the workshop day.
 
 
-1. Students:
+1. :school_satchel: Students:
    - Link to event page (schedule, time, location, etc.)
    - Goal of the workshop
    - Update RSVP is no longer can attend
@@ -59,7 +59,7 @@ You will also want to give a heads up to your mentors about what to expect on th
    
    **To see a sample student reminder email. Please see [here](../sample-emails/reminder-students-one-month.md).**
 
-2. Mentors:
+2. :school: Mentors:
    - Link to event page (schedule, time, location, etc.)
    - Updates
    - Groups to join (e.g.: mentor gitter channel)
@@ -73,7 +73,7 @@ You will also want to give a heads up to your mentors about what to expect on th
 ## :clock3:  One day before the event:
 The goal of this reminder to **get people excited and prepared** for tomorrow's workshop! :raised_hands:
 
-1. Students:
+1. :school_satchel: Students:
    - Update RSVP is no longer can attend
    - Registration Time (Be prepared that people will show up late)
    - Location and transportation details (Public transit or parking details)
@@ -84,7 +84,7 @@ The goal of this reminder to **get people excited and prepared** for tomorrow's 
       **To see a sample student reminder email. Please see [here](../sample-emails/reminder-students-day-before.md).**
 
 
-2. Mentors:
+2. :school: Mentors:
    - Arrival Time
    - Installation
    - Tutorial link
@@ -92,7 +92,7 @@ The goal of this reminder to **get people excited and prepared** for tomorrow's 
       **To see a sample mentor reminder email. Please see [here](../sample-emails/reminder-mentors-day-before.md).**
 
 
-## Next Step:
+## :arrow_right: Next Step:
 - Click [here](./workshop-day.md) to read more about what should happen on the ScalaBridge workshop day.
 
 - Go back to the [table of content](../README.md)

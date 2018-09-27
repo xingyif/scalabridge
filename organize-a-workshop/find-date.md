@@ -22,7 +22,7 @@ For example, if I am currently organizing a workshop in May, I will propose a fe
 If you're organizing a workshop with a **conference**, most of the workshops are organized on the day before the conference.
 
 
-## Next Step:
+## :arrow_right: Next Step:
 - Click [here](./invite-mentors.md) to read more about how to find mentors for a ScalaBridge workshop.
 
 - Go back to the [table of content](../README.md)

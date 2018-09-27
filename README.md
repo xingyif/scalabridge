@@ -4,6 +4,8 @@ ScalaBridge workshop is intended to reach out to all underrepresented population
 
 **Note: You do not have to be a woman to be underrepresented in tech. Diversity comes in many forms: race, gender, age, religion, culture, sexual orientation, socioeconomic background, etc. If at any point, you feel excluded from any ScalaBridge event, please do not hesisate to reach out to me [@yifan_xing_e](https://twitter.com/yifan_xing_e).**
 
+To read more about the target audiences, please visit [here](./who-can-attend.md).
+
 
 ## What is a ScalaBridge workshop?
 ScalaBridge workshops are usually one-day long events, which will take students through the basics of functional programming in Scala using Creative Scala tutorial. By the end of the workshop, students will have built several doodles using Creative Scala, have a basic understanding of functional programming, and a grasp of Scala fundamentals.
@@ -15,6 +17,8 @@ One of the best ways to grow the community and to bring diversity into the commu
 
 ## How to organize a ScalaBridge workshop?
 It is not difficult at all to become a workshop organizer. Simply follow the following steps:
+
+:heavy_check_mark:
 
 1. [ Find A Date for The Workshop (3 months before the workshop date) ](/organize-a-workshop/find-date.md)
 2. [ Invite Mentors (3 months before) ](/organize-a-workshop/invite-mentors.md)

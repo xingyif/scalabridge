@@ -33,7 +33,7 @@ There are a few ways to promote your event:
 - Local Meetup
 
 
-## Next Step:
+## :arrow_right: Next Step:
 - We will discuss how to find sponsorship [here](./sponsorship.md).
 
 - Go back to the [table of content](../README.md).

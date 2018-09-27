@@ -36,7 +36,9 @@ For people who are relatively new to the community and who are new to organizing
 
 2. Share the event date with the company to make sure that they understand when to host.
 
-3. Share the expected size of the crowd.
+3. Share the expected size of the crowd, ideally 2 weeks before the workshop day. See [event reminders - 2 weeks before the workshop](./event-reminders.md) for details.
+
+4. Talk about what type of food to prepare, (e.g. vegetarian, gluten free, kosher, etc.)
 
 4. Take an onsite tour to the company if you can. Be familiar with the space. Make plans for:
     - Making sure it is big enough to host for the size of the crowd that you're hoping for
@@ -45,7 +47,7 @@ For people who are relatively new to the community and who are new to organizing
 
 
 
-## Next Step:
+## :arrow_right: Next Step:
 
 - We will discuss how to promote the workshop [here](./promote-workshop.md).
 

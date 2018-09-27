@@ -67,7 +67,7 @@ ScalaBridge workshop's audiences are:
 3. Go to our [list of interested AMAZING mentors](./invite-mentors.md#interested--mentors), and feel free to ping them for help or promoting the event!
 
 
-## Next Step:
+## :arrow_right: Next Step:
 - We will discuss event reminders before the event [here](./event-reminders.md).
 
 - Go back to the [table of content](../README.md).
