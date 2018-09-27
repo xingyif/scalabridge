@@ -150,5 +150,7 @@ Sharethrough
 <br>
 
 
-## Next Step:
+## :arrow_right: Next Step:
 - Ready to organize a ScalaBridge workshop? Go [here](./README.md#bulb-how-to-organize-a-scalabridge-workshop).
+
+- Go back to the [table of content](./README.md).
