@@ -57,3 +57,7 @@ For Installing the software needed to work with Creative Scala. There are 3 path
 ### :ferris_wheel: Intellij IDEA
    A brief installation guide can be found on [Creative Scala](http://www.creativescala.org/creative-scala.html#intellij).
 
+
+
+## :arrow_right: Next Step:
+- Go back to the [table of content](../README.md).

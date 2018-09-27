@@ -145,3 +145,10 @@ Sharethrough
 Fri 7/30/2016
 Sharethrough
 ```
+
+
+<br>
+
+
+## Next Step:
+- Ready to organize a ScalaBridge workshop? Go [here](./README.md#bulb-how-to-organize-a-scalabridge-workshop).

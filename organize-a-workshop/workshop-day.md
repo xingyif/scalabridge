@@ -69,6 +69,8 @@ ScalaBridge Workshop uses [Creative Scala Tutorial](http://creativescala.org/cre
 
 The creative scala template used in this tutorial is [here](https://github.com/underscoreio/creative-scala-template).
 
+**Visit [here](../workshop-resources/tutorial.md) to read more about tutorials.**
+
 
 ### :school: What should mentors do?
 Rather than lecture-lab, this is a hands-on workshop designed for self-paced learning. Mentors will be floating around, engaging and facilitating students in their learning. It is helpful if mentors could engage with students rather than always waiting for students to ask questions.

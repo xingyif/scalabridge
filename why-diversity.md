@@ -11,4 +11,4 @@ TED talks
 
 
 ## Next Step:
-- Ready to organize a ScalaBridge workshop? Go [here](./README.md#how-to-organize-a-scalabridge-workshop).
+- Ready to organize a ScalaBridge workshop? Go [here](./README.md#bulb-how-to-organize-a-scalabridge-workshop).

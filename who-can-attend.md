@@ -13,3 +13,7 @@ All the attendees of ScalaBridge must follow [Scala Code of Conduct](https://www
 ![People](./images/diversity.jpg)
 ![People](./images/superheros.jpg)
 ![People](./images/disney.jpg)
+
+
+## Next Step:
+- Ready to organize a ScalaBridge workshop? Go [here](./README.md#bulb-how-to-organize-a-scalabridge-workshop).
