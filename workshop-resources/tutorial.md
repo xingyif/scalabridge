@@ -14,5 +14,3 @@ The creative scala template used in this tutorial is [here](https://github.com/u
 
 ## :arrow_right: Next Step:
 - Go back to the [table of content](../README.md).
-
-- Go back to the [table of content](./README.md).
