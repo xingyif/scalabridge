@@ -1,4 +1,4 @@
-## :sparkles: Workshop Day
+## :star2: Workshop Day
 
 ### :snowman: Organizer and Mentors:
 As an organizer, you are expected to arrive about 1 hour earlier than the registration time to setup for the event.
