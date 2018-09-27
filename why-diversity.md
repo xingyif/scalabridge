@@ -1,4 +1,4 @@
-# Why is Diversity Important?
+# :high_brightness: Why is Diversity Important?
 
 
 
@@ -6,12 +6,13 @@
 
 
 
-## What is a diverse community?
+## :cat: :dog: What is a diverse community?
 A diverse community can be formed by people with different gender, religious, race, age, disability, linguistic differences, social-economic status and cultural backgrounds.
 
+ :rabbit: :frog: :tiger: :koala: :bear: :pig: :cow: :boar: :monkey_face: :monkey: :horse: :racehorse: :camel: :sheep: :elephant: :panda_face: :snake: :bird: :hatched_chick: :penguin: :turtle: :bug: :honeybee: :ant: :whale: :fish: :octopus:
 
 
-## What happens if we have a community that has no diversity?
+## :warning: What happens if we have a community that has no diversity?
 > There are real-world cautionary tales of what happens when you don’t have gender diversity on your engineering teams.
 
 Three Examples from **Nora Denzel Keynote Speech - Grace Hopper Celebration 2012**:
@@ -26,9 +27,8 @@ Three Examples from **Nora Denzel Keynote Speech - Grace Hopper Celebration 2012
 
 [![keynote](./images/keynote.png)](https://www.youtube.com/watch?v=242Z5BhJAC8)
 
-
-https://ampglobalyouth.org/students/5-reasons-diversity-important-21st-century/
-
+<br>
+<br>
 
 ## :tv: TED Talks on Diversity
 
@@ -48,7 +48,7 @@ https://ampglobalyouth.org/students/5-reasons-diversity-important-21st-century/
 <br>
 
 
-** :wavy_dash: Above quotes are from this [blog](https://medium.com/women-in-tech/women-in-tech-the-missing-force-e4709f348610).**
+**:wavy_dash: Above quotes are from this [blog](https://medium.com/women-in-tech/women-in-tech-the-missing-force-e4709f348610).**
 
 
 ## :arrow_right: Next Step:
