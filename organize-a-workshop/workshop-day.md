@@ -1,11 +1,11 @@
 ## :sparkles: Workshop Day
 
-### :star: Organizer and Mentors:
+### :snowman: Organizer and Mentors:
 As an organizer, you are expected to arrive earlier than the registration time to setup for the event.
 
 Please also remember to remind your mentors to arrive at least half an hour before registration for discussing logistics (e.g. installation).
 
-#### :sunny: What you need to do before the event starts?
+#### :star: What you need to do before the event starts?
 1. Make sure order food in place.
 2. Make sure you have enough tables and chairs for student groups.
 3. Make sure your presentation is ready.
