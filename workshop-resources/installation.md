@@ -26,11 +26,11 @@ For Installing the software needed to work with Creative Scala. There are 3 path
 ### :computer: Text Editor & Terminal
 
 #### Steps
-The [installation steps](http://www.creativescala.org/creative-scala.html#installing-terminal-software-and-a-text-editors) can be viewed in Creative Scala tutorial.
+   The [installation steps](http://www.creativescala.org/creative-scala.html#installing-terminal-software-and-a-text-editors) can be viewed in Creative Scala tutorial.
 
 #### General Workflow
 
-Finding an efficient workflow is important. In Creative Scala, students are likely to run code much more frequently, and make much smaller changes, than is typical in most development workflows. I find the fastest workflow to use the `:paste` command in the Scala console. A lot of people don't know about this so here's a quick rundown of how to use it:
+   Finding an efficient workflow is important. In Creative Scala, students are likely to run code much more frequently, and make much smaller changes, than is typical in most development workflows. I find the fastest workflow to use the `:paste` command in the Scala console. A lot of people don't know about this so here's a quick rundown of how to use it:
 
 - Start the console, or REPL, from within SBT using the `console` command
 - Use the `:paste` command to load the file of interest. In the template project this is `Example.scala`. 
@@ -41,19 +41,19 @@ Finding an efficient workflow is important. In Creative Scala, students are like
 
 
 ### :package: [Intellij-Scala-Bundle](https://github.com/JetBrains/intellij-scala-bundle)
-The bundle saves a significant amount of time if the student do not have anything setup on the machine.
+   The bundle saves a significant amount of time if the student do not have anything setup on the machine.
 
-After downloading the bundle, you can simply extract the archive and run the application.
+   After downloading the bundle, you can simply extract the archive and run the application.
 
 
 #### Download the bundle
-Please visit [here](https://github.com/JetBrains/intellij-scala-bundle#download).
+   Please visit [here](https://github.com/JetBrains/intellij-scala-bundle#download).
 
 
 #### For installing the bundle
-Please visit [here](https://github.com/JetBrains/intellij-scala-bundle#install-the-bundle)
+   Please visit [here](https://github.com/JetBrains/intellij-scala-bundle#install-the-bundle)
 
 
 ### :ferris_wheel: Intellij IDEA
-A brief installation guide can be found on [Creative Scala](http://www.creativescala.org/creative-scala.html#intellij).
+   A brief installation guide can be found on [Creative Scala](http://www.creativescala.org/creative-scala.html#intellij).
 
