@@ -26,13 +26,18 @@ You don't have to do this alone. [I](https://twitter.com/yifan_xing_e) am here t
 
 
 ### :scroll: Do I need mentorship experience to be a mentor?
-No, but you do need to know Scala well, ideally at least one or two years of using Scala.
+No, but you do need to know Scala well, ideally at least one or two years experience of using Scala.
 
 
 ### :pencil2: What do I need to be a mentor?
 - Scala Skills
 - Able to understand questions and to explain solutions
 - Patience
+
+## :arrow_right: Next Step:
+- Click [here](../README.md) to read about how to organize a ScalaBridge workshop.
+
+- Go back to the [table of content](../README.md)
 
 <br>
 
