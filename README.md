@@ -36,7 +36,13 @@ ScalaBridge can be organized with/ without a conference. The optimal & recommend
 
 The above process is recommended, however, not required. You're welcome to follow your own steps if preferred.
 
-## :closed_book: [Frequently Asked Questions](./organize-a-workshop/faq.md) about ScalaBridge workshops
+## :book: [Frequently Asked Questions](./organize-a-workshop/faq.md) about ScalaBridge workshops
+
+<br>
+
+## :scroll: A Timeline for the past ScalaBridge workshops:
+Please visit [here](./past-scalabridge-workshops.md) to view the previous workshops.
+
 
 ## :ledger: Other Bridge Events Organizing Resources:
 - http://www.scalabridge.org/
