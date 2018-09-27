@@ -2,7 +2,7 @@
 
 
 ## :ab: Choices
-For Installing the software needed to work with Creative Scala. There are two pathways:
+For Installing the software needed to work with Creative Scala. There are 3 pathways:
 
 1. Text editor and a terminal:
    
@@ -16,8 +16,8 @@ For Installing the software needed to work with Creative Scala. There are two pa
    Recommended for people who have no preference/ don't know which one to use/ have no environment setup
 
    
-3.  Intellij IDEA:
-
+3. Intellij IDEA:
+   
    Setup/ Config required
    
    Suitable for people who are familiar with Intellij.
@@ -25,10 +25,10 @@ For Installing the software needed to work with Creative Scala. There are two pa
 
 ### :computer: Text Editor & Terminal
 
-##### Steps
+#### Steps
 The [installation steps](http://www.creativescala.org/creative-scala.html#installing-terminal-software-and-a-text-editors) can be viewed in Creative Scala tutorial.
 
-##### General Workflow
+#### General Workflow
 
 Finding an efficient workflow is important. In Creative Scala, students are likely to run code much more frequently, and make much smaller changes, than is typical in most development workflows. I find the fastest workflow to use the `:paste` command in the Scala console. A lot of people don't know about this so here's a quick rundown of how to use it:
 
@@ -46,11 +46,11 @@ The bundle saves a significant amount of time if the student do not have anythin
 After downloading the bundle, you can simply extract the archive and run the application.
 
 
-##### Download the bundle
+#### Download the bundle
 Please visit [here](https://github.com/JetBrains/intellij-scala-bundle#download).
 
 
-##### For installing the bundle
+#### For installing the bundle
 Please visit [here](https://github.com/JetBrains/intellij-scala-bundle#install-the-bundle)
 
 
