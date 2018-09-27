@@ -1,4 +1,4 @@
-# Invite Mentors for the Workshop
+# :envelope: Invite Mentors for the Workshop
 
 **Optimal start time of this step: 3 months before the workshop**
 
@@ -6,27 +6,30 @@
 Mentors are the most important part of the workshop. It can be a little challenging if you're relatively new to the community and new to organizing ScalaBridge events. But don't worry. This page will make it easier for you, hopefully! :)
 
 
-## General Process
+## :sunny: General Process
 There are **two** parts of inviting mentors.
-The first round is that before you pick a date for the event, you should personally reach out to a few people who are interested in helping out with the event by being a mentor.
 
-The second round is after you've picked an event date. You can promote the event while inviting/ attracting more mentors.
+1. The first round is that before you [pick a date](./find-date.md) for the event, you should personally reach out to a few people who are interested in helping out with the event by being a mentor.
+
+2. The second round is after you've picked an event date. You can [promote the event](./promote-workshop.md) while inviting/ attracting more mentors.
 
 **The optimal ratio between mentor:student is 1:5.**
 
-## Who should you invite?
+
+## :hatched_chick: Who should you invite?
 - People who knows how to code in Scala.
 - People who are interested in teaching beginners Scala.
 - People who are involved in the Scala community (Doesn't have to be famous Scala people).
 - People who are nice and patient.
 
 
-## How do you personally reach out to mentors?
+## :phone: How do you personally reach out to mentors?
 For people who already know many other Scala developers, feel free to directly reach out to them.
 
-For people who are relatively new to the community and who are new to organizing bridge events, here are [a list of mentors](#interested--mentors), who are interested in mentoring. Feel free to invite them as mentors for your workshop.
+For people who are relatively new to the community and who are new to organizing bridge events, here are [a list of mentors](#sparkling_heart-interested--mentors), who are interested in mentoring. Feel free to invite them as mentors for your workshop.
 
-## How do you get more mentors to sign up?
+
+## :black_nib: How do you get more mentors to sign up?
 There are a few ways to promote your event:
 - Twitter
 - BridgeTroll
@@ -40,7 +43,7 @@ There are a few ways to promote your event:
 
 
 *********************************************************************************************
-## Interested  Mentors
+## :sparkling_heart: Interested  Mentors
 Please put your name and contact info if you're interested in being a mentor for the future ScalaBridge events in your city. **Note: You do NOT have to have mentorship experience to be a mentor.**
 
 

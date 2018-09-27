@@ -1,11 +1,11 @@
-# Find Sponsorship
+# :mega: Find Sponsorship
 
 **Optimal start time of this step: 3 months before the workshop**
 
 
 The goal of sponsorship of a ScalaBridge workshop is to be able to provide food and space on the day of the event.
 
-## How to find a sponsor/ company?
+## :mag: How to find a sponsor/ company?
 
 Many companies are very willing to help out with such an event. Please do not hesitate to reach out. There are a few ways of reaching out:
 
@@ -24,11 +24,11 @@ Many companies are very willing to help out with such an event. Please do not he
 
 
 
-For people who are relatively new to the community and who are new to organizing bridge events, here are [a list of sponsors](#interested--sponsors), who are interested in sponsoring. Feel free to reach out to them for the workshop.
+For people who are relatively new to the community and who are new to organizing bridge events, here are [a list of sponsors](#rose-interested--sponsors), who are interested in sponsoring. Feel free to reach out to them for the workshop.
 
 
 
-## What to do when you find a sponsor?
+## :page_facing_up: What to do when you find a sponsor?
 
 **It is important to communicate and share your expectations with the company before moving on to the next steps.**
 
@@ -55,7 +55,7 @@ For people who are relatively new to the community and who are new to organizing
 
 
 *********************************************************************************************
-## Interested  Sponsors
+## :rose: Interested  Sponsors
 Please put company name and contact info if interested in being a sponsor for the future ScalaBridge events in your city.
 
 

@@ -3,11 +3,11 @@
 **Optimal start time of this step: 1 month before the workshop**
 
 
-## Why send out reminders?
+## :hourglass_flowing_sand: Why send out reminders?
 One of the best ways to ensure that you have a reasonable turn out for the workshop is to remind students and mentors about the event consecutively. Keep in mind that the usual turn out for the workshop is 50% of the people who registered for your event. You should also be prepared for people who did not register to show up.
 
 
-## Who to remind?
+## :telephone_receiver: Who to remind?
 1. :school_satchel: Students
 2. :school: Mentors
 
@@ -17,7 +17,7 @@ Reminder emails should be sent out separately for the two different groups.
 ## :clock2: One Month Before the event:
 You would want to remind people of the workshop to ensure that they can still attend. Or to remind them to update their RSVP if they can no longer attend.
 
-### What should be included in your reminder email?
+### :email: What should be included in your reminder email?
 1. :school_satchel: Students
    
    Remind registered students of: 
