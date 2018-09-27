@@ -61,5 +61,3 @@ For Installing the software needed to work with Creative Scala. There are 3 path
 
 ## :arrow_right: Next Step:
 - Go back to the [table of content](../README.md).
-
-- Go back to the [table of content](./README.md).
