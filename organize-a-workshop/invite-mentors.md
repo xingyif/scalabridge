@@ -11,16 +11,16 @@ There are **two** parts of inviting mentors.
 
 1. The first round is that before you [pick a date](./find-date.md) for the event, you should personally reach out to a few people who are interested in helping out with the event by being a mentor.
 
-2. The second round is after you've picked an event date. You can [promote the event](./promote-workshop.md) while inviting/ attracting more mentors.
+2. The second round is after you've picked an event date. You can [promote the event](./promote-workshop.md) while attracting more mentors.
 
-**The optimal ratio between mentor:student is 1:5.**
+**The optimal student:mentor ratio is 5:1.**
 
 
 ## :hatched_chick: Who should you invite?
-- People who knows how to code in Scala.
-- People who are interested in teaching beginners Scala.
-- People who are involved in the Scala community (Doesn't have to be famous Scala people).
-- People who are nice and patient.
+- People who know how to code in Scala.
+- People who are interested in teaching Scala to beginners.
+- People who are involved in the Scala community (doesn't have to be famous Scala people).
+- People who are kind and patient.
 
 
 ## :phone: How do you personally reach out to mentors?

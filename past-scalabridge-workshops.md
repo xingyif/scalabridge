@@ -14,7 +14,7 @@
 [ScalaBridge Seattle - Intro to Programming in Scala](https://www.bridgetroll.org/events/440)
 ```text
 Sun 9/16/2018
-47 Degrees HQ
+47 Degrees
 ```
 
 ### :clock130: San Francisco, CA
@@ -57,7 +57,7 @@ Domino Data Lab
 [Scala Workshop](https://www.meetup.com/Krakow-Scala-User-Group/events/249387632/)
 ```text
 04/15/2018
-Virtus Lab
+VirtusLab
 ```
 
 
@@ -88,7 +88,7 @@ Radius Intelligence
 [ScalaBridge New York Intro to Programming in Scala](https://www.bridgetroll.org/events/359)
 ```text
 Fri 6/30/2017
-Meetup HQ
+Meetup
 ```
 
 ### :clock330: Zürich, Switzerland

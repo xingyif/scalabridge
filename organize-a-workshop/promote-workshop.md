@@ -9,7 +9,7 @@ The goal of promoting the workshop is to:
 
 
 ## :date: Create Event
-It is recommended that you choose one of the following platforms. You CAN create the event on multiple platforms, however, it will be difficult to have an accurate headcount because you might have duplicated sign-ups from the same student.
+It is recommended that you choose one of the following platforms. You CAN create the event on multiple platforms, however, it will be difficult to have an accurate headcount because you might have duplicate signups from the same student.
 
 1. Meetup
    
@@ -22,10 +22,10 @@ It is recommended that you choose one of the following platforms. You CAN create
    
    **Here is an example of a BridgeTroll [ScalaBridge event](https://bridgetroll.org/events/438).**
 
-   Advantage: BridgeTroll will send out a notification to everyone who has participated in any bridge events before. You will be able to reach out to people who are interested/ familiar with bridge events.
+   Advantage: BridgeTroll will send out a notification to everyone who has participated in any Bridge events before. You will be able to reach out to people who are interested/ familiar with Bridge events.
    It has really good organization tools for you to collect student info and to send notification emails.
 
-   Disadvantage: challenging to reach out to people who are not aware of/ has never participated in any bridge events.
+   Disadvantage: challenging to reach out to people who are not aware of or have never participated in any bridge events.
 
 
 3. Eventbrite
@@ -61,12 +61,12 @@ ScalaBridge workshop's audiences are:
 
 1. Twitter
 
-   Scala community is very active on Twitter. You can twitter about the event to encourage people to sign up. Feel free to ping me [@yifan_xing_e](https://twitter.com/yifan_xing_e), I and many others will be happy to retweet the event.
+   The Scala community is very active on Twitter. You can tweet about the event to encourage people to sign up. Feel free to ping me [@yifan_xing_e](https://twitter.com/yifan_xing_e), I and many others will be happy to retweet.
 
 
 2. BridgeTroll
 
-   Mentor on BridgeTroll will get a notification when there is a bridge event.
+   Mentor on BridgeTroll will get a notification when there is a Bridge event.
 
 
 3. Go to our [list of interested AMAZING mentors](./invite-mentors.md#sparkling_heart-interested--mentors), and feel free to ping them for help or promoting the event!
