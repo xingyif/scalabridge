@@ -2,7 +2,7 @@
 
 **:bouquet: Keep up the good work everyone!**
 
-**Add your ScalaBridge workshop here. Or [become an organizer](./README.md) in your city!**
+**:confetti_ball: Add your ScalaBridge workshop here. Or [become an organizer](./README.md) in your city!**
 
 
 
