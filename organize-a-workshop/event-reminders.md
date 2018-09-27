@@ -95,4 +95,4 @@ The goal of this reminder to **get people excited and prepared** for tomorrow's 
 ## :arrow_right: Next Step:
 - Click [here](./workshop-day.md) to read more about what should happen on the ScalaBridge workshop day.
 
-- Go back to the [table of content](../README.md)
+- Go back to the [table of content](../README.md).

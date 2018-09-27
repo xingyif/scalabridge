@@ -30,7 +30,7 @@ Congratulations for finishing organizing a ScalaBridge workshop! Thank you for y
 ## :arrow_right: Visit Frequently Asked Questions:
 - See [frequently asked questions](./faq.md) about ScalaBridge workshops.
 
-- Go back to the [table of content](../README.md)
+- Go back to the [table of content](../README.md).
 
 
 <br>

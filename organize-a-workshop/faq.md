@@ -37,7 +37,7 @@ No, but you do need to know Scala well, ideally at least one or two years experi
 ## :arrow_right: Next Step:
 - Click [here](../README.md) to read about how to organize a ScalaBridge workshop.
 
-- Go back to the [table of content](../README.md)
+- Go back to the [table of content](../README.md).
 
 <br>
 

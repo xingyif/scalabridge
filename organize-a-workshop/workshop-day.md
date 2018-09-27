@@ -12,7 +12,7 @@ Please also remember to remind your mentors to arrive at least half an hour befo
 
 
 ### :dog: Who can attend?
-To read about the target audiences, please visit [here](../who-can-attend.md)
+To read about the target audiences, please visit [here](../who-can-attend.md).
 
 
 <br>
@@ -51,7 +51,7 @@ An introduction that starts the event. Shoudl include:
 - Start coding
 
 
-To see an example presentation on opening remarks, please go [here](../workshop-resources/ScalaBridge%20-%20NYC%202018.pdf)
+To see an example presentation on opening remarks, please go [here](../workshop-resources/ScalaBridge%20-%20NYC%202018.pdf).
 
 
 ### :couple: :two_women_holding_hands: :two_men_holding_hands: Grouping Students
@@ -61,13 +61,13 @@ There are two recommended ways to separate students into groups.
 
 
 ### :hammer: Installation
-There are several choices for installation. To read more about the choices, plese visit [here](../workshop-resources/installation.md)
+There are several choices for installation. To read more about the choices, plese visit [here](../workshop-resources/installation.md).
 
 
 ### :bookmark_tabs: Workshop Materials
-ScalaBridge Workshop uses [Creative Scala Tutorial](http://creativescala.org/creative-scala.html)
+ScalaBridge Workshop uses [Creative Scala Tutorial](http://creativescala.org/creative-scala.html).
 
-The creative scala template used in this tutorial is [here](https://github.com/underscoreio/creative-scala-template)
+The creative scala template used in this tutorial is [here](https://github.com/underscoreio/creative-scala-template).
 
 
 ### :school: What should mentors do?
@@ -116,4 +116,4 @@ Give a short closing presentation:
 ## :arrow_right: Next Step:
 - Click [here](./post-workshop.md) to read about post ScalaBridge workshop.
 
-- Go back to the [table of content](../README.md)
+- Go back to the [table of content](../README.md).
