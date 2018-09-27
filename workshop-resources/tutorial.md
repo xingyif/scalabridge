@@ -1,7 +1,7 @@
 # :pencil: Workshop Tutorial
 
 ## :bookmark_tabs: Workshop Materials
-Friends from [Underscore](http://underscore.org) have created and donated the curriculum. Rather than lecture-lab, this hand-on workshop is designed for self-paced learning. As a volunteer, you will be a floating mentor, engaging and facilitating students in their learning.
+Friends from [Underscore](http://underscore.org) have created and donated the curriculum. Rather than lecture-lab, this hand-on workshop is designed for self-paced learning. Mentors will be floating around, engaging and facilitating students in their learning.
 
 
 ## :closed_book: Creative Scala Tutorial
