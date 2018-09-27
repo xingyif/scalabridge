@@ -36,14 +36,16 @@ ScalaBridge can be organized with/ without a conference. The optimal & recommend
 
 The above process is recommended, however, not required. You're welcome to follow your own steps if preferred.
 
-## :book: [Frequently Asked Questions](./organize-a-workshop/faq.md) about ScalaBridge workshops
 
-<br>
+## :book: [Frequently Asked Questions](./organize-a-workshop/faq.md) about ScalaBridge workshops
+Check out the questions that people frequently ask! Feel free to add your questions/ answers there! :smiley:
+
 
 ## :scroll: A Timeline for the past ScalaBridge workshops:
 Please visit [here](./past-scalabridge-workshops.md) to view the previous workshops.
 
 
 ## :ledger: Other Bridge Events Organizing Resources:
-- http://www.scalabridge.org/
-- http://www.railsbridge.org/help/host
+- [ScalaBridge Website](http://www.scalabridge.org/)
+- [RailsBridge Hosting An Event](http://www.railsbridge.org/help/host)
+- [RailsBridge Cookbook](https://github.com/railsbridge/docs/wiki/Cookbook)
