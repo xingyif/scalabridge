@@ -15,6 +15,8 @@ Please also remember to remind your mentors to arrive at least half an hour befo
 To read about the target audiences, please visit [here](../who-can-attend.md)
 
 
+<br>
+
 ### :calendar: A Sample Schedule:
 
 ```test
@@ -36,7 +38,6 @@ Depending on what day or the week is your workshop (usually on the weekends). Th
 
 :name_badge: Remember to have name tags for attendees. It is a good way for them to get to know each other.
 
-<br>
 
 ### :bulb: Opening Remarks
 An introduction that starts the event. Shoudl include:
@@ -92,6 +93,11 @@ Give a short closing presentation:
    
    Depending on how your workshop is organized, and how many people registered, you can try adding one or two interesting talks after lunch. Because usually people get tired after lunch. Talks might be a good break.
 
+- :cyclone: Chat Platform
+
+   One of the goals of ScalaBridge is to bring diversity into the Scala community. It is a good idea to create a platform that allows people to ask questions and to keep in touch. Gitter is one of the good options. Please visit [Gitter ScalaBridgeLobby](https://gitter.im/scalabridgeboston/Lobby) for an example.
+
+
 - :beers: Drinks
 
    Some workshops provide drinks for students after lunch.
@@ -105,6 +111,7 @@ Give a short closing presentation:
    Sometimes mentors grab beer after the workshop.
    
 
+<br>
 
 ## :arrow_right: Next Step:
 - Click [here](./post-workshop.md) to read about post ScalaBridge workshop.

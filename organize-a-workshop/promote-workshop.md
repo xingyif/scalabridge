@@ -12,11 +12,15 @@ The goal of promoting the workshop is to:
 It is recommended that you choose one of the following platforms. You CAN create the event on multiple platforms, however, it will be difficult to have an accurate headcount because you might have duplicated sign-ups from the same student.
 
 1. Meetup
+   
+   **Here is an example of a meetup [ScalaBridge event](https://www.meetup.com/ScalaBridge-Boston/events/251183790/).**
 
    Advantage: broad variety of audiences
 
 
 2. BridgeTroll
+   
+   **Here is an example of a BridgeTroll [ScalaBridge event](https://bridgetroll.org/events/438).**
 
    Advantage: BridgeTroll will send out a notification to everyone who has participated in any bridge events before. You will be able to reach out to people who are interested/ familiar with bridge events.
    It has really good organization tools for you to collect student info and to send notification emails.
