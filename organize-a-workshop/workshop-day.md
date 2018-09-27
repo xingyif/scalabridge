@@ -1,7 +1,7 @@
 ## :sparkles: Workshop Day
 
 ### :snowman: Organizer and Mentors:
-As an organizer, you are expected to arrive earlier than the registration time to setup for the event.
+As an organizer, you are expected to arrive about 1 hour earlier than the registration time to setup for the event.
 
 Please also remember to remind your mentors to arrive at least half an hour before registration for discussing logistics (e.g. installation).
 
@@ -67,7 +67,7 @@ There are several choices for installation. To read more about the choices, ples
 ### :bookmark_tabs: Workshop Materials
 ScalaBridge Workshop uses [Creative Scala Tutorial](http://creativescala.org/creative-scala.html)
 
-The scala template used in this tutorial is [here](https://github.com/underscoreio/creative-scala-template)
+The creative scala template used in this tutorial is [here](https://github.com/underscoreio/creative-scala-template)
 
 
 ### :school: What should mentors do?
