@@ -7,3 +7,9 @@ The goal of the workshop is not to exclude anyone, rather, it is to create a saf
 
 All the attendees of ScalaBridge must follow [Scala Code of Conduct](https://www.scala-lang.org/conduct/). Micro-aggressive behavior or sexual harassment are not tolerated. All ScalaBridge organizers have the right to ask a person, who violated the code of conduct or made other attendees feel threatened, to leave the workshop at any time.
 
+<br>
+
+
+![People](./images/diversity.jpg)
+![People](./images/superheros.jpg)
+![People](./images/disney.jpg)
