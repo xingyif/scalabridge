@@ -3,7 +3,7 @@
 **Optimal start time of this step: 3 months before the workshop**
 
 
-The goal of sponsorship of a ScalaBridge workshop is to be able to provide food and space on the day of the event.
+The sponsor of a ScalaBridge workshop provides food and space on the day of the event.
 
 ## :mag: How to find a sponsor/ company?
 
@@ -11,20 +11,20 @@ Many companies are very willing to help out with such an event. Please do not he
 
 1. Your Wonderful Employer
    
-   The "closest" and maybe the easiest one to ask if your employer. Talk with your coworkers and the designated event organizer to see if they are willing to provide food and space.
+   Perhaps easiest is to ask your own employer. Talk with your coworkers and the designated event organizer to see if they are willing to provide food and space.
    
     
 2. Local Meetup Email List
    
-   Send out an email to meetup groups is also another good way to reach out to companies. Many of them will responde.
+   Send out an email to meetup groups is also another good way to reach out to companies. Many of them will respond.
    
 3. Twitter
    
-   Post that you're looking for sponsorships on Twitter, ping me ([@yifan_xing_e](https://twitter.com/yifan_xing_e)). I and many others will be happy to retweet.
+   Post that you're looking for sponsorships on Twitter, and ping me ([@yifan_xing_e](https://twitter.com/yifan_xing_e)). I and many others will be happy to retweet.
 
 
 
-For people who are relatively new to the community and who are new to organizing bridge events, here are [a list of sponsors](#rose-interested--sponsors), who are interested in sponsoring. Feel free to reach out to them for the workshop.
+For people who are relatively new to the community and who are new to organizing Bridge events, here are [a list of sponsors](#rose-interested--sponsors), who are interested in sponsoring. Feel free to reach out to them for the workshop.
 
 
 
@@ -40,10 +40,10 @@ For people who are relatively new to the community and who are new to organizing
 
 4. Talk about what type of food to prepare, (e.g. vegetarian, gluten free, kosher, etc.)
 
-4. Take an onsite tour to the company if you can. Be familiar with the space. Make plans for:
-    - Making sure it is big enough to host for the size of the crowd that you're hoping for
-    - Making sure it has enough tables/ chairs
-    - Making sure it has enough space for people to form into groups.
+5. Visit the site if you can. Become familiar with the space. You should:
+    - Make sure it is big enough to host for the size of the crowd that you're hoping for
+    - Make sure it has enough tables/ chairs
+    - Make sure it has enough space for people to split into groups.
 
 
 

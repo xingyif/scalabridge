@@ -7,7 +7,7 @@
 <br>
 
 ## :cat: :dog: What is a diverse community?
-A diverse community can be formed by people with different gender, religious, race, age, disability, linguistic differences, social-economic status and cultural backgrounds.
+A diverse community can be formed by people with different gender, religious, race, age, disability, linguistic differences, socio-economic status and cultural backgrounds.
 
 :shipit: :rabbit: :frog: :tiger: :koala: :bear: :pig: :cow: :boar: :monkey_face: :monkey: :horse: :racehorse: :camel: :sheep: :elephant: :panda_face: :snake: :bird: :hatched_chick: :penguin: :turtle: :bug: :honeybee: :ant: :whale: :fish: :octopus:
 

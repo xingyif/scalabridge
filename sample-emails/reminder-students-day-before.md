@@ -22,10 +22,10 @@ Install Bundle
 At the beginning of the workshop, we will install https://github.com/JetBrains/intellij-scala-bundle for setting up the dev env. It is strongly recommended that you try to install this bundle before the workshop. During the workshop, any problems related to the bundle can be asked in this gitter channel: https://gitter.im/scalabridgeboston/intellijbundle
 
 Tutorial
-We will be using Creative Scala tutorial for learning scala. It is not required to go through the tutorial before the workshop.
+We will be using Creative Scala tutorial for learning Scala. It is not required to go through the tutorial before the workshop.
 
 
-Please join our [gitter channel](https://gitter.im/scalabridgeboston/lobby) to receive real-time updates/ announcements and communicate/ ask questions during the workshop!
+Please join our [Gitter channel](https://gitter.im/scalabridgeboston/lobby) to receive real-time updates/ announcements and communicate/ ask questions during the workshop!
 
 
 Here is a brief schedule of the workshop day: **Sun 8/5/2018**

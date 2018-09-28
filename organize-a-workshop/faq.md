@@ -11,7 +11,7 @@ To read more about the target audiences, please visit [here](../who-can-attend.m
 No, ScalaBridge is a free workshop that teaches people who are underrepresented in tech to learn programming via Scala.
 
 ### :computer: Do I need programming experience before attending?
-Depends on the workshop. Most of the ScalaBridge workshops target people with no programming background.
+Depends on the workshop. Most ScalaBridge workshops target people with no programming background.
 
 <br>
 
@@ -30,9 +30,9 @@ No, but you do need to know Scala well, ideally at least one or two years experi
 
 
 ### :pencil2: What do I need to be a mentor?
-- Scala Skills
+- Scala skills
 - Able to understand questions and to explain solutions
-- Patience
+- Patience and kindness
 
 ## :arrow_right: Next Step:
 - Click [here](../README.md) to read about how to organize a ScalaBridge workshop.

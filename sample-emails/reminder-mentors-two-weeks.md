@@ -16,19 +16,19 @@ ScalaBridge is 2 weeks away. I am excited to meet all of you!
 
 Any info about the workshop can be found at: https://www.meetup.com/ScalaBridge-Boston/events/251183790/
 
-I've created a gitter channel [here](https://gitter.im/scalabridgeboston/Lobby).
+I've created a Gitter channel [here](https://gitter.im/scalabridgeboston/Lobby).
 And I've added all of you to a private mentor room. Please let me know if you don't have access to https://gitter.im/scalabridgeboston/mentors
 
-I've posted a few ideas on gitter about organizing ScalaBridge this time. Please check it out. Any feedback/ idea is welcome,
+I've posted a few ideas on Gitter about organizing ScalaBridge this time. Please check it out. Any feedback/ idea is welcome,
 
 
-If you can't see gitter discussion for some reason. Here is what I posted:
+If you can't see Gitter discussion for some reason. Here is what I posted:
 
 ```text
 We currently have about 15 mentors and lots of mentees (150 registered,
  i am not sure how many will show up. Usually the no show rate is about 50%).
  
-The optimal rate is 1:5. So we're a little bit short of mentors.
+The optimal ratio is 5:1. So we're a little bit short of mentors.
  If you have friends/ coworkers, who are interested in coming,
   please let me know.
  
