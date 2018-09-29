@@ -25,7 +25,7 @@ You would want to remind people of the workshop to ensure that they can still at
    - Schedule
    - Goal of the workshop
    - Update RSVP if no longer can attend
-   - (optional) Mention or thank sponsor
+   - (optional) Mention/ thank sponsor
    - Your contact info for questions
    
    **To see a sample student reminder email. Please see [here](../sample-emails/reminder-students-one-month.md).**
