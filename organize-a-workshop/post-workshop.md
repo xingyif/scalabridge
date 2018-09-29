@@ -20,7 +20,7 @@ Congratulations for finishing organizing a ScalaBridge workshop! Thank you for y
 
 2. :open_hands: Collaborate with Scala meetups
 
-   Organize events with local Scala meetups to bring ScalaBridge attendees into the community by inviting them to local meetups. Many Scala beginners are intimidated to attend meetups because the talks might be too advanced or they do not feel eligible to call themselves "Scala users". Although the workshop ended, the mission continues. It is our goal to make everyone, beginners and non-beginners, to feel inclusive.
+   Organize events with local Scala meetups to bring ScalaBridge attendees into the community by inviting them to local meetups. Many Scala beginners are intimidated to attend meetups because the talks might be too advanced or they do not feel eligible to call themselves "Scala users". Although the workshop ended, the mission continues. It is our goal to make everyone, beginners and non-beginners, feel included.
    
    Some of the co-events ideas:
    - Beginner-friendly talks at meetups
