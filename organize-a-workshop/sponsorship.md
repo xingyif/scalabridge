@@ -11,7 +11,7 @@ Many companies are very willing to help out with such an event. Please do not he
 
 1. Your Wonderful Employer
    
-   Perhaps easiest is to ask your own employer. Talk with your coworkers and the designated event organizer to see if they are willing to provide food and space.
+   Perhaps the easiest is to ask your own employer. Talk with your coworkers and the designated event organizer to see if they are willing to provide food and space.
    
     
 2. Local Meetup Email List
