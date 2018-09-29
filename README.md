@@ -32,7 +32,7 @@ It is not difficult at all to become a workshop organizer. Simply follow the fol
 
 
 
-A ScalaBridge workshop can be associated with a conference, or it can happen independently. The recommended time to start the above process for organizing the event is three months before the event date.
+A ScalaBridge workshop can be associated with a conference, or it can happen independently. The recommended time to start the above process for organizing the event is 3 months before the event date.
 
 The above process is recommended, however, not required. You're welcome to follow your own steps if you prefer.
 
