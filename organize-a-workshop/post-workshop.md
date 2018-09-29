@@ -16,7 +16,7 @@ Congratulations for finishing organizing a ScalaBridge workshop! Thank you for y
 
 1. :cyclone: Chat Platform
    
-   One of the goals of ScalaBridge is to increase diversity into the Scala community. It is a good idea to create a platform that allows people to ask questions and to keep in touch. Gitter is one of the good options. Please visit [Gitter ScalaBridgeLobby](https://gitter.im/scalabridgeboston/Lobby) for an example.
+   One of the goals of ScalaBridge is to increase diversity in the Scala community. It is a good idea to create a platform that allows people to ask questions and to keep in touch. Gitter is one of the good options. Please visit [Gitter ScalaBridgeLobby](https://gitter.im/scalabridgeboston/Lobby) for an example.
 
 2. :open_hands: Collaborate with Scala meetups
 
