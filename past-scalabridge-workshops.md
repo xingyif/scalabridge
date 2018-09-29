@@ -88,7 +88,7 @@ Radius Intelligence
 [ScalaBridge New York Intro to Programming in Scala](https://www.bridgetroll.org/events/359)
 ```text
 Fri 6/30/2017
-Meetup
+Meetup HQ
 ```
 
 ### :clock330: Zürich, Switzerland
